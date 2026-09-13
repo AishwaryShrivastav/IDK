@@ -1,0 +1,5 @@
+.DS_Store
+sound/analysis/.venv/
+# re-cloneable corpora (see texts/SOURCES.md for exact sources)
+texts/vedas/rigveda/vedaweb-data/
+texts/vedas/yajurveda/vishvasa_yajurveda/
